@@ -1,0 +1,51 @@
+{
+  "image": "spartoi.png",
+  "frame_w": 32,
+  "frame_h": 32,
+  "scale": 1.0,
+  "name": "Spartoi",
+  "theme": "ossos",
+  "tier": 2,
+  "feet": [
+    16,
+    31
+  ],
+  "animations": {
+    "rise": {
+      "row": 0,
+      "frames": 5,
+      "fps": 8,
+      "loop": false
+    },
+    "move": {
+      "row": 1,
+      "frames": 4,
+      "fps": 8,
+      "loop": true
+    },
+    "windup": {
+      "row": 2,
+      "frames": 3,
+      "fps": 7,
+      "loop": false
+    },
+    "attack": {
+      "row": 3,
+      "frames": 3,
+      "fps": 12,
+      "loop": false
+    },
+    "hurt": {
+      "row": 4,
+      "frames": 1,
+      "fps": 1,
+      "loop": false
+    },
+    "die": {
+      "row": 5,
+      "frames": 4,
+      "fps": 14,
+      "loop": false
+    }
+  }
+}

@@ -1,0 +1,19 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://scripts/world/world.gd" id="1_world"]
+[ext_resource type="Script" path="res://scripts/world/room_camera.gd" id="2_camera"]
+[ext_resource type="Script" path="res://scripts/dev/debug_overlay.gd" id="3_debug"]
+
+[node name="World" type="Node2D"]
+script = ExtResource("1_world")
+map_dir = "res://levels/ember"
+
+[node name="CanvasModulate" type="CanvasModulate" parent="."]
+
+[node name="RoomCamera" type="Camera2D" parent="."]
+process_callback = 0
+script = ExtResource("2_camera")
+
+[node name="DebugOverlay" type="CanvasLayer" parent="."]
+layer = 100
+script = ExtResource("3_debug")

@@ -1,0 +1,33 @@
+{
+  "image": "balanos.png",
+  "frame_w": 32,
+  "frame_h": 32,
+  "scale": 1.0,
+  "name": "Balanos",
+  "theme": "carvalho",
+  "tier": 1,
+  "feet": [
+    16,
+    31
+  ],
+  "animations": {
+    "move": {
+      "row": 0,
+      "frames": 4,
+      "fps": 8,
+      "loop": true
+    },
+    "hurt": {
+      "row": 1,
+      "frames": 1,
+      "fps": 1,
+      "loop": false
+    },
+    "die": {
+      "row": 2,
+      "frames": 4,
+      "fps": 14,
+      "loop": false
+    }
+  }
+}

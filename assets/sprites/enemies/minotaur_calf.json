@@ -1,0 +1,51 @@
+{
+  "image": "minotaur_calf.png",
+  "frame_w": 40,
+  "frame_h": 32,
+  "scale": 1.0,
+  "name": "Minotaur Calf",
+  "theme": "labirinto",
+  "tier": 3,
+  "feet": [
+    18,
+    31
+  ],
+  "animations": {
+    "move": {
+      "row": 0,
+      "frames": 4,
+      "fps": 7,
+      "loop": true
+    },
+    "windup": {
+      "row": 1,
+      "frames": 3,
+      "fps": 6,
+      "loop": false
+    },
+    "attack": {
+      "row": 2,
+      "frames": 2,
+      "fps": 12,
+      "loop": true
+    },
+    "stun": {
+      "row": 3,
+      "frames": 2,
+      "fps": 4,
+      "loop": true
+    },
+    "hurt": {
+      "row": 4,
+      "frames": 1,
+      "fps": 1,
+      "loop": false
+    },
+    "die": {
+      "row": 5,
+      "frames": 4,
+      "fps": 14,
+      "loop": false
+    }
+  }
+}

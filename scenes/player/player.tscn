@@ -1,0 +1,72 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://scripts/player/player.gd" id="1_player"]
+[ext_resource type="Resource" path="res://resources/player/movement_default.tres" id="2_config"]
+[ext_resource type="Script" path="res://scripts/core/state_machine.gd" id="3_machine"]
+[ext_resource type="Script" path="res://scripts/player/states/idle.gd" id="4_idle"]
+[ext_resource type="Script" path="res://scripts/player/states/run.gd" id="5_run"]
+[ext_resource type="Script" path="res://scripts/player/states/jump.gd" id="6_jump"]
+[ext_resource type="Script" path="res://scripts/player/states/fall.gd" id="7_fall"]
+[ext_resource type="Script" path="res://scripts/player/states/wall_slide.gd" id="8_wall"]
+[ext_resource type="Script" path="res://scripts/player/states/dash.gd" id="9_dash"]
+[ext_resource type="Script" path="res://scripts/player/player_fx.gd" id="10_fx"]
+[ext_resource type="Script" path="res://scripts/player/states/dead.gd" id="11_dead"]
+
+[sub_resource type="RectangleShape2D" id="shape_body"]
+size = Vector2(8, 17)
+
+[sub_resource type="RectangleShape2D" id="shape_hurt"]
+size = Vector2(6, 11)
+
+[node name="Player" type="CharacterBody2D"]
+z_index = 10
+collision_layer = 2
+collision_mask = 1
+floor_snap_length = 3.0
+script = ExtResource("1_player")
+config = ExtResource("2_config")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, -8.5)
+shape = SubResource("shape_body")
+
+[node name="Hurtbox" type="Area2D" parent="."]
+collision_layer = 0
+collision_mask = 20
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Hurtbox"]
+position = Vector2(0, -8.5)
+shape = SubResource("shape_hurt")
+
+[node name="Visual" type="Node2D" parent="."]
+
+[node name="Body" type="AnimatedSprite2D" parent="Visual"]
+position = Vector2(0, -16)
+
+[node name="StateMachine" type="Node" parent="."]
+script = ExtResource("3_machine")
+initial_state = &"Fall"
+
+[node name="Idle" type="Node" parent="StateMachine"]
+script = ExtResource("4_idle")
+
+[node name="Run" type="Node" parent="StateMachine"]
+script = ExtResource("5_run")
+
+[node name="Jump" type="Node" parent="StateMachine"]
+script = ExtResource("6_jump")
+
+[node name="Fall" type="Node" parent="StateMachine"]
+script = ExtResource("7_fall")
+
+[node name="WallSlide" type="Node" parent="StateMachine"]
+script = ExtResource("8_wall")
+
+[node name="Dash" type="Node" parent="StateMachine"]
+script = ExtResource("9_dash")
+
+[node name="Dead" type="Node" parent="StateMachine"]
+script = ExtResource("11_dead")
+
+[node name="Fx" type="Node" parent="."]
+script = ExtResource("10_fx")

@@ -1,0 +1,78 @@
+{
+  "id": "twilight_grove",
+  "title": "Twilight Grove",
+  "family": "Floresta",
+  "idea": "A parte mais densa da floresta, j\u00e1 de noite: lua em quarto, \u00faltimo clar\u00e3o do p\u00f4r do sol no horizonte, pinheiros altos e juntos, raios de luar entre os ramos e n\u00e9voa em tons pastel.",
+  "ground": "Pedra arroxeada com terra e relva verde-\u00e1gua, com florzinhas claras.",
+  "terrain": "twilight_grove_terrain.png",
+  "sky": "twilight_grove_sky.png",
+  "layers": [
+    {
+      "texture": "twilight_grove_hills.png",
+      "scale": 0.04,
+      "scale_y": 0.015
+    },
+    {
+      "texture": "twilight_grove_far.png",
+      "scale": 0.08,
+      "scale_y": 0.04
+    },
+    {
+      "texture": "twilight_grove_mid3.png",
+      "scale": 0.14,
+      "scale_y": 0.07
+    },
+    {
+      "texture": "twilight_grove_mist_back.png",
+      "scale": 0.19,
+      "autoscroll": -4,
+      "scale_y": 0.08
+    },
+    {
+      "texture": "twilight_grove_mid2.png",
+      "scale": 0.22,
+      "scale_y": 0.12
+    },
+    {
+      "texture": "twilight_grove_rays_back.png",
+      "scale": 0.31,
+      "scale_y": 0.18
+    },
+    {
+      "texture": "twilight_grove_mid.png",
+      "scale": 0.31,
+      "scale_y": 0.18
+    },
+    {
+      "texture": "twilight_grove_mist_front.png",
+      "scale": 0.4,
+      "autoscroll": -8,
+      "scale_y": 0.22
+    },
+    {
+      "texture": "twilight_grove_rays_front.png",
+      "scale": 0.44,
+      "scale_y": 0.3,
+      "y": -250
+    },
+    {
+      "texture": "twilight_grove_near.png",
+      "scale": 0.44,
+      "scale_y": 0.3,
+      "y": -250
+    }
+  ],
+  "decor": "grove_decor.json",
+  "ambient": "#b4b8f0",
+  "decor_tint": "#c8d0f0",
+  "decor_density": 1.0,
+  "particles": "fireflies",
+  "particle_color": "#ffd27a",
+  "water_top": "#8a9ad880",
+  "water_deep": "#1e2260bd",
+  "water_foam": "#e6ecfff2",
+  "spring_colors": [
+    "aqua",
+    "pink"
+  ]
+}

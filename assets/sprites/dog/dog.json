@@ -1,0 +1,86 @@
+{
+  "image": "dog.png",
+  "frame_w": 32,
+  "frame_h": 32,
+  "scale": 1.0,
+  "animations": {
+    "idle": {
+      "row": 0,
+      "frames": 8,
+      "fps": 6,
+      "loop": true
+    },
+    "pant": {
+      "row": 1,
+      "frames": 4,
+      "fps": 8,
+      "loop": true
+    },
+    "walk": {
+      "row": 2,
+      "frames": 8,
+      "fps": 10,
+      "loop": true
+    },
+    "run": {
+      "row": 3,
+      "frames": 6,
+      "fps": 14,
+      "loop": true
+    },
+    "jump": {
+      "row": 4,
+      "frames": 2,
+      "fps": 10,
+      "loop": false
+    },
+    "fall": {
+      "row": 5,
+      "frames": 2,
+      "fps": 8,
+      "loop": true
+    },
+    "land": {
+      "row": 6,
+      "frames": 2,
+      "fps": 12,
+      "loop": false
+    },
+    "sit": {
+      "row": 7,
+      "frames": 8,
+      "fps": 5,
+      "loop": true
+    },
+    "lie": {
+      "row": 8,
+      "frames": 4,
+      "fps": 3,
+      "loop": true
+    },
+    "sleep": {
+      "row": 9,
+      "frames": 4,
+      "fps": 2,
+      "loop": true
+    },
+    "bark": {
+      "row": 10,
+      "frames": 4,
+      "fps": 10,
+      "loop": true
+    },
+    "sniff": {
+      "row": 11,
+      "frames": 8,
+      "fps": 8,
+      "loop": true
+    },
+    "happy": {
+      "row": 12,
+      "frames": 6,
+      "fps": 10,
+      "loop": true
+    }
+  }
+}
