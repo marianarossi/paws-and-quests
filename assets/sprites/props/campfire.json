@@ -1,0 +1,20 @@
+{
+  "image": "campfire.png",
+  "frame_w": 24,
+  "frame_h": 24,
+  "scale": 1.0,
+  "animations": {
+    "burn": {
+      "row": 0,
+      "frames": 8,
+      "fps": 10,
+      "loop": true
+    },
+    "unlit": {
+      "row": 1,
+      "frames": 1,
+      "fps": 1,
+      "loop": false
+    }
+  }
+}

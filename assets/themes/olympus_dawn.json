@@ -1,0 +1,82 @@
+{
+  "id": "olympus_dawn",
+  "title": "Amanhecer no Olimpo",
+  "family": "Little Olympus",
+  "idea": "Muito acima das nuvens, ao nascer do sol: torres de c\u00famulos de v\u00e1rias cores, ilhas de rocha a flutuar com cascatas, templos ao longe e ru\u00ednas de m\u00e1rmore com hera.",
+  "ground": "Pedra clara e terra rosada com relva verde e florzinhas (o ch\u00e3o da primeira vers\u00e3o, com menos pedra).",
+  "terrain": "olympus_dawn_terrain.png",
+  "sky": "olympus_dawn_sky.png",
+  "layers": [
+    {
+      "texture": "olympus_dawn_towers.png",
+      "scale": 0.02,
+      "autoscroll": -1.2,
+      "scale_y": 0.01
+    },
+    {
+      "texture": "olympus_dawn_far.png",
+      "scale": 0.04,
+      "scale_y": 0.02
+    },
+    {
+      "texture": "olympus_dawn_sea_far.png",
+      "scale": 0.07,
+      "autoscroll": -2,
+      "scale_y": 0.04,
+      "fill": "#e4a4c4"
+    },
+    {
+      "texture": "olympus_dawn_drifting.png",
+      "scale": 0.1,
+      "autoscroll": -3,
+      "scale_y": 0.05
+    },
+    {
+      "texture": "olympus_dawn_birds.png",
+      "scale": 0.12,
+      "autoscroll": -15,
+      "scale_y": 0.05,
+      "flap": 3
+    },
+    {
+      "texture": "olympus_dawn_isles.png",
+      "scale": 0.15,
+      "scale_y": 0.09
+    },
+    {
+      "texture": "olympus_dawn_sea_mid.png",
+      "scale": 0.22,
+      "autoscroll": -4,
+      "scale_y": 0.14,
+      "fill": "#b884ba"
+    },
+    {
+      "texture": "olympus_dawn_ruins.png",
+      "scale": 0.32,
+      "scale_y": 0.2
+    },
+    {
+      "texture": "olympus_dawn_sea_near.png",
+      "scale": 0.46,
+      "autoscroll": -7,
+      "scale_y": 0.3,
+      "fill": "#7866ac"
+    }
+  ],
+  "decor": "olympus_decor.json",
+  "platform": "olympus_dawn_platform.png",
+  "fore": "olympus_dawn_fore.png",
+  "ambient": "#fff6ec",
+  "decor_density": 0.85,
+  "ceiling_density": 0.5,
+  "particles": "petals",
+  "particle_color": "#fff0f4",
+  "water_top": "#ffd8c880",
+  "water_deep": "#c07a90b0",
+  "water_foam": "#fffffff2",
+  "music": "extra_scene",
+  "spring_colors": [
+    "lilac",
+    "aqua"
+  ]
+}

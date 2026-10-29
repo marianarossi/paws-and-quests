@@ -1,0 +1,9 @@
+.godot/
+/android/
+
+/build/
+/captures/
+
+__pycache__/
+*.pyc
+/tools/.venv/

@@ -1,0 +1,101 @@
+{
+  "image": "shots.png",
+  "shots": {
+    "poison_glob": {
+      "x": 0,
+      "y": 0,
+      "frame_w": 12,
+      "frame_h": 12,
+      "frames": 2,
+      "fps": 8
+    },
+    "miasma": {
+      "x": 0,
+      "y": 12,
+      "frame_w": 24,
+      "frame_h": 24,
+      "frames": 3,
+      "fps": 5
+    },
+    "missile": {
+      "x": 0,
+      "y": 36,
+      "frame_w": 20,
+      "frame_h": 12,
+      "frames": 2,
+      "fps": 12
+    },
+    "arrow": {
+      "x": 0,
+      "y": 48,
+      "frame_w": 40,
+      "frame_h": 8,
+      "frames": 2,
+      "fps": 12
+    },
+    "feather": {
+      "x": 0,
+      "y": 56,
+      "frame_w": 14,
+      "frame_h": 8,
+      "frames": 2,
+      "fps": 10
+    },
+    "blade_feather": {
+      "x": 0,
+      "y": 64,
+      "frame_w": 8,
+      "frame_h": 14,
+      "frames": 2,
+      "fps": 10
+    },
+    "note_ring": {
+      "x": 0,
+      "y": 78,
+      "frame_w": 12,
+      "frame_h": 24,
+      "frames": 3,
+      "fps": 8
+    },
+    "bone_spear": {
+      "x": 0,
+      "y": 102,
+      "frame_w": 22,
+      "frame_h": 8,
+      "frames": 1,
+      "fps": 1
+    },
+    "flame": {
+      "x": 0,
+      "y": 110,
+      "frame_w": 18,
+      "frame_h": 12,
+      "frames": 3,
+      "fps": 12
+    },
+    "icicle": {
+      "x": 0,
+      "y": 122,
+      "frame_w": 12,
+      "frame_h": 12,
+      "frames": 2,
+      "fps": 8
+    },
+    "bolt": {
+      "x": 0,
+      "y": 134,
+      "frame_w": 12,
+      "frame_h": 32,
+      "frames": 2,
+      "fps": 14
+    },
+    "thunder_bomb": {
+      "x": 0,
+      "y": 166,
+      "frame_w": 14,
+      "frame_h": 14,
+      "frames": 3,
+      "fps": 12
+    }
+  }
+}

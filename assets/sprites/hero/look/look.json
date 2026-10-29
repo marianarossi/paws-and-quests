@@ -1,0 +1,1041 @@
+{
+  "step": 4,
+  "index": {
+    "@": 1,
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "x": 6,
+    "K": 7,
+    "L": 8,
+    "l": 9,
+    "S": 10,
+    "s": 11,
+    "z": 12,
+    "n": 13,
+    "c": 14,
+    "H": 15,
+    "h": 16,
+    "u": 17,
+    "B": 18,
+    "b": 19,
+    "g": 20,
+    "d": 21,
+    "e": 22,
+    "f": 23,
+    "w": 24,
+    "W": 25,
+    "v": 26,
+    "t": 27,
+    "G": 28,
+    "a": 29,
+    "m": 30,
+    "j": 31,
+    "J": 32,
+    "o": 33,
+    "O": 34,
+    "k": 35,
+    "P": 36,
+    "p": 37,
+    "q": 38,
+    "r": 39,
+    "F": 40,
+    "i": 41,
+    "I": 42,
+    "y": 43,
+    "M": 44
+  },
+  "fixed": {
+    "@": "#222034",
+    "1": "#fffaf0",
+    "2": "#f1dfbc",
+    "3": "#dba55e",
+    "4": "#9c6336",
+    "x": "#3b2a24",
+    "K": "#3a2a28",
+    "L": "#262838",
+    "l": "#9ab4d8"
+  },
+  "derived": {
+    "y": [
+      "s",
+      "b",
+      0.45
+    ],
+    "M": [
+      "w",
+      "w",
+      0.0
+    ]
+  },
+  "pieces": {
+    "skin": {
+      "letters": [
+        "S",
+        "s",
+        "z",
+        "n",
+        "c"
+      ],
+      "options": [
+        {
+          "id": "tone1",
+          "name": "COLOR_TONE_1",
+          "colors": {
+            "S": "#f3cda9",
+            "s": "#e4b58f",
+            "z": "#c48f6c",
+            "n": "#d9957a",
+            "c": "#e8998a"
+          }
+        },
+        {
+          "id": "tone2",
+          "name": "COLOR_TONE_2",
+          "colors": {
+            "S": "#f6dcc4",
+            "s": "#eac2a4",
+            "z": "#c9967c",
+            "n": "#dca08a",
+            "c": "#eea294"
+          }
+        },
+        {
+          "id": "tone3",
+          "name": "COLOR_TONE_3",
+          "colors": {
+            "S": "#f2cfa0",
+            "s": "#e0b37e",
+            "z": "#bb8858",
+            "n": "#cf946a",
+            "c": "#e29c80"
+          }
+        },
+        {
+          "id": "tone4",
+          "name": "COLOR_TONE_4",
+          "colors": {
+            "S": "#e0b088",
+            "s": "#c99368",
+            "z": "#a06c48",
+            "n": "#b47a56",
+            "c": "#cf866e"
+          }
+        },
+        {
+          "id": "tone5",
+          "name": "COLOR_TONE_5",
+          "colors": {
+            "S": "#c48c62",
+            "s": "#a8704a",
+            "z": "#7e4e32",
+            "n": "#92583c",
+            "c": "#b06a50"
+          }
+        },
+        {
+          "id": "tone6",
+          "name": "COLOR_TONE_6",
+          "colors": {
+            "S": "#a06a46",
+            "s": "#875434",
+            "z": "#623a24",
+            "n": "#70432a",
+            "c": "#8e5440"
+          }
+        },
+        {
+          "id": "tone7",
+          "name": "COLOR_TONE_7",
+          "colors": {
+            "S": "#7e5036",
+            "s": "#663e28",
+            "z": "#48281a",
+            "n": "#52301e",
+            "c": "#704030"
+          }
+        },
+        {
+          "id": "tone8",
+          "name": "COLOR_TONE_8",
+          "colors": {
+            "S": "#f4d4c0",
+            "s": "#e9b8a2",
+            "z": "#c88e7e",
+            "n": "#dc9e8e",
+            "c": "#ee9c96"
+          }
+        }
+      ]
+    },
+    "hair": {
+      "letters": [
+        "H",
+        "h",
+        "u",
+        "B",
+        "b",
+        "g",
+        "d"
+      ],
+      "options": [
+        {
+          "id": "auburn",
+          "name": "COLOR_AUBURN",
+          "colors": {
+            "H": "#9a5a38",
+            "h": "#6f4128",
+            "u": "#452819",
+            "B": "#8a5233",
+            "b": "#6f4128",
+            "g": "#4a2b1b",
+            "d": "#2a1810"
+          }
+        },
+        {
+          "id": "chestnut",
+          "name": "COLOR_CHESTNUT",
+          "colors": {
+            "H": "#7d5741",
+            "h": "#5a3f2f",
+            "u": "#352621",
+            "B": "#704e3a",
+            "b": "#5a3f2f",
+            "g": "#392923",
+            "d": "#1f1616"
+          }
+        },
+        {
+          "id": "dark_brown",
+          "name": "COLOR_DARK_BROWN",
+          "colors": {
+            "H": "#5c4032",
+            "h": "#422e24",
+            "u": "#261c1a",
+            "B": "#533a2d",
+            "b": "#422e24",
+            "g": "#291e1c",
+            "d": "#161012"
+          }
+        },
+        {
+          "id": "black",
+          "name": "COLOR_BLACK",
+          "colors": {
+            "H": "#46404e",
+            "h": "#322e38",
+            "u": "#1c1c27",
+            "B": "#3f3a46",
+            "b": "#322e38",
+            "g": "#1f1e29",
+            "d": "#101019"
+          }
+        },
+        {
+          "id": "blonde",
+          "name": "COLOR_BLONDE",
+          "colors": {
+            "H": "#d8ae5c",
+            "h": "#9c7d42",
+            "u": "#5e4d2d",
+            "B": "#c29d53",
+            "b": "#9c7d42",
+            "g": "#655330",
+            "d": "#372e1d"
+          }
+        },
+        {
+          "id": "platinum",
+          "name": "COLOR_PLATINUM",
+          "colors": {
+            "H": "#ece2c4",
+            "h": "#aaa38d",
+            "u": "#67655c",
+            "B": "#d4cbb0",
+            "b": "#aaa38d",
+            "g": "#6e6b62",
+            "d": "#3d3c39"
+          }
+        },
+        {
+          "id": "ginger",
+          "name": "COLOR_GINGER",
+          "colors": {
+            "H": "#d4703a",
+            "h": "#99512a",
+            "u": "#5c311e",
+            "B": "#bf6534",
+            "b": "#99512a",
+            "g": "#633520",
+            "d": "#361d14"
+          }
+        },
+        {
+          "id": "silver",
+          "name": "COLOR_SILVER",
+          "colors": {
+            "H": "#bcbccc",
+            "h": "#878793",
+            "u": "#525460",
+            "B": "#a9a9b8",
+            "b": "#878793",
+            "g": "#575966",
+            "d": "#30323b"
+          }
+        },
+        {
+          "id": "blue",
+          "name": "COLOR_BLUE",
+          "colors": {
+            "H": "#5a7ac4",
+            "h": "#41588d",
+            "u": "#26365c",
+            "B": "#516eb0",
+            "b": "#41588d",
+            "g": "#283a62",
+            "d": "#152039"
+          }
+        },
+        {
+          "id": "mint",
+          "name": "COLOR_MINT",
+          "colors": {
+            "H": "#62b896",
+            "h": "#47846c",
+            "u": "#295248",
+            "B": "#58a687",
+            "b": "#47846c",
+            "g": "#2c574c",
+            "d": "#17312c"
+          }
+        }
+      ]
+    },
+    "eyes": {
+      "letters": [
+        "e",
+        "f"
+      ],
+      "options": [
+        {
+          "id": "green",
+          "name": "COLOR_GREEN",
+          "colors": {
+            "e": "#1d4d36",
+            "f": "#1d4d36"
+          }
+        },
+        {
+          "id": "brown",
+          "name": "COLOR_BROWN",
+          "colors": {
+            "e": "#4a2c1c",
+            "f": "#4a2c1c"
+          }
+        },
+        {
+          "id": "blue",
+          "name": "COLOR_BLUE",
+          "colors": {
+            "e": "#244a8c",
+            "f": "#244a8c"
+          }
+        },
+        {
+          "id": "hazel",
+          "name": "COLOR_HAZEL",
+          "colors": {
+            "e": "#5c5420",
+            "f": "#5c5420"
+          }
+        },
+        {
+          "id": "gray",
+          "name": "COLOR_GRAY",
+          "colors": {
+            "e": "#465062",
+            "f": "#465062"
+          }
+        },
+        {
+          "id": "amber",
+          "name": "COLOR_AMBER",
+          "colors": {
+            "e": "#7c4a12",
+            "f": "#7c4a12"
+          }
+        },
+        {
+          "id": "dark",
+          "name": "COLOR_DARK",
+          "colors": {
+            "e": "#1c1824",
+            "f": "#1c1824"
+          }
+        },
+        {
+          "id": "teal",
+          "name": "COLOR_TEAL",
+          "colors": {
+            "e": "#145a5a",
+            "f": "#145a5a"
+          }
+        }
+      ]
+    },
+    "jacket": {
+      "letters": [
+        "w",
+        "W",
+        "v"
+      ],
+      "options": [
+        {
+          "id": "indigo",
+          "name": "COLOR_INDIGO",
+          "colors": {
+            "w": "#4b4b88",
+            "W": "#3f3f74",
+            "v": "#2f2f58"
+          }
+        },
+        {
+          "id": "forest",
+          "name": "COLOR_FOREST",
+          "colors": {
+            "w": "#527a58",
+            "W": "#43674f",
+            "v": "#2e4b3f"
+          }
+        },
+        {
+          "id": "red",
+          "name": "COLOR_RED",
+          "colors": {
+            "w": "#b04a3c",
+            "W": "#933e37",
+            "v": "#692d2e"
+          }
+        },
+        {
+          "id": "mustard",
+          "name": "COLOR_MUSTARD",
+          "colors": {
+            "w": "#c8962e",
+            "W": "#a77e2b",
+            "v": "#785c25"
+          }
+        },
+        {
+          "id": "navy",
+          "name": "COLOR_NAVY",
+          "colors": {
+            "w": "#34507e",
+            "W": "#29436f",
+            "v": "#1b3057"
+          }
+        },
+        {
+          "id": "olive",
+          "name": "COLOR_OLIVE",
+          "colors": {
+            "w": "#6e7438",
+            "W": "#5a6234",
+            "v": "#3f472b"
+          }
+        },
+        {
+          "id": "brown",
+          "name": "COLOR_BROWN",
+          "colors": {
+            "w": "#80563a",
+            "W": "#6a4835",
+            "v": "#4b342d"
+          }
+        },
+        {
+          "id": "charcoal",
+          "name": "COLOR_CHARCOAL",
+          "colors": {
+            "w": "#4e4e58",
+            "W": "#3f414f",
+            "v": "#2b2f3f"
+          }
+        },
+        {
+          "id": "teal",
+          "name": "COLOR_TEAL",
+          "colors": {
+            "w": "#2e807a",
+            "W": "#246c6c",
+            "v": "#174f55"
+          }
+        },
+        {
+          "id": "orange",
+          "name": "COLOR_ORANGE",
+          "colors": {
+            "w": "#c86434",
+            "W": "#a75430",
+            "v": "#783d29"
+          }
+        }
+      ]
+    },
+    "pack": {
+      "letters": [
+        "t",
+        "G",
+        "a",
+        "m"
+      ],
+      "options": [
+        {
+          "id": "green",
+          "name": "COLOR_GREEN",
+          "colors": {
+            "t": "#2f8063",
+            "G": "#37946e",
+            "a": "#52ae86",
+            "m": "#195d41"
+          }
+        },
+        {
+          "id": "orange",
+          "name": "COLOR_ORANGE",
+          "colors": {
+            "G": "#d07a30",
+            "t": "#b1682c",
+            "a": "#e3a264",
+            "m": "#774725"
+          }
+        },
+        {
+          "id": "red",
+          "name": "COLOR_RED",
+          "colors": {
+            "G": "#b8403a",
+            "t": "#9c3634",
+            "a": "#d2786b",
+            "m": "#68242b"
+          }
+        },
+        {
+          "id": "blue",
+          "name": "COLOR_BLUE",
+          "colors": {
+            "G": "#3c6cb8",
+            "t": "#325ca1",
+            "a": "#7998c6",
+            "m": "#1e3f76"
+          }
+        },
+        {
+          "id": "yellow",
+          "name": "COLOR_YELLOW",
+          "colors": {
+            "G": "#d4ae3c",
+            "t": "#b59536",
+            "a": "#e6c86d",
+            "m": "#79662c"
+          }
+        },
+        {
+          "id": "brown",
+          "name": "COLOR_BROWN",
+          "colors": {
+            "G": "#8a5c38",
+            "t": "#754f33",
+            "a": "#b18d6a",
+            "m": "#4d352a"
+          }
+        },
+        {
+          "id": "gray",
+          "name": "COLOR_GRAY",
+          "colors": {
+            "G": "#6c7282",
+            "t": "#5b6172",
+            "a": "#9b9c9f",
+            "m": "#3b4256"
+          }
+        },
+        {
+          "id": "teal",
+          "name": "COLOR_TEAL",
+          "colors": {
+            "G": "#2c9c98",
+            "t": "#248685",
+            "a": "#6dbbaf",
+            "m": "#145c63"
+          }
+        },
+        {
+          "id": "olive",
+          "name": "COLOR_OLIVE",
+          "colors": {
+            "G": "#7c8240",
+            "t": "#696f39",
+            "a": "#a7a86f",
+            "m": "#444c2e"
+          }
+        },
+        {
+          "id": "black",
+          "name": "COLOR_BLACK",
+          "colors": {
+            "G": "#40404c",
+            "t": "#353644",
+            "a": "#7b7878",
+            "m": "#202436"
+          }
+        }
+      ]
+    },
+    "pants": {
+      "letters": [
+        "j",
+        "J"
+      ],
+      "options": [
+        {
+          "id": "charcoal",
+          "name": "COLOR_CHARCOAL",
+          "colors": {
+            "j": "#3a3c48",
+            "J": "#4c4f5c"
+          }
+        },
+        {
+          "id": "denim",
+          "name": "COLOR_DENIM",
+          "colors": {
+            "J": "#3e5e8e",
+            "j": "#2c4772"
+          }
+        },
+        {
+          "id": "khaki",
+          "name": "COLOR_KHAKI",
+          "colors": {
+            "J": "#a48e5c",
+            "j": "#7b6c4c"
+          }
+        },
+        {
+          "id": "brown",
+          "name": "COLOR_BROWN",
+          "colors": {
+            "J": "#6e4c34",
+            "j": "#51392d"
+          }
+        },
+        {
+          "id": "black",
+          "name": "COLOR_BLACK",
+          "colors": {
+            "J": "#2c2a34",
+            "j": "#1e1f2d"
+          }
+        },
+        {
+          "id": "olive",
+          "name": "COLOR_OLIVE",
+          "colors": {
+            "J": "#5e643a",
+            "j": "#454c31"
+          }
+        },
+        {
+          "id": "navy",
+          "name": "COLOR_NAVY",
+          "colors": {
+            "J": "#2e385c",
+            "j": "#202a4c"
+          }
+        },
+        {
+          "id": "gray",
+          "name": "COLOR_GRAY",
+          "colors": {
+            "J": "#7c7e8a",
+            "j": "#5c606f"
+          }
+        },
+        {
+          "id": "rust",
+          "name": "COLOR_RUST",
+          "colors": {
+            "J": "#803e30",
+            "j": "#5f2f2a"
+          }
+        },
+        {
+          "id": "sand",
+          "name": "COLOR_SAND",
+          "colors": {
+            "J": "#c2aa7a",
+            "j": "#928263"
+          }
+        }
+      ]
+    },
+    "boots": {
+      "letters": [
+        "o",
+        "O",
+        "k"
+      ],
+      "options": [
+        {
+          "id": "brown",
+          "name": "COLOR_BROWN",
+          "colors": {
+            "o": "#5a4036",
+            "O": "#6f5143",
+            "k": "#3b2a24"
+          }
+        },
+        {
+          "id": "black",
+          "name": "COLOR_BLACK",
+          "colors": {
+            "O": "#4a4652",
+            "o": "#3a3846",
+            "k": "#212333"
+          }
+        },
+        {
+          "id": "tan",
+          "name": "COLOR_TAN",
+          "colors": {
+            "O": "#a87e4c",
+            "o": "#866541",
+            "k": "#534130"
+          }
+        },
+        {
+          "id": "red",
+          "name": "COLOR_RED",
+          "colors": {
+            "O": "#943c32",
+            "o": "#75302c",
+            "k": "#481e22"
+          }
+        },
+        {
+          "id": "gray",
+          "name": "COLOR_GRAY",
+          "colors": {
+            "O": "#6e7080",
+            "o": "#575a6b",
+            "k": "#34394c"
+          }
+        },
+        {
+          "id": "olive",
+          "name": "COLOR_OLIVE",
+          "colors": {
+            "O": "#5e6442",
+            "o": "#4a5039",
+            "k": "#2c332b"
+          }
+        },
+        {
+          "id": "cream",
+          "name": "COLOR_CREAM",
+          "colors": {
+            "O": "#cec4b0",
+            "o": "#a49e92",
+            "k": "#676665"
+          }
+        },
+        {
+          "id": "navy",
+          "name": "COLOR_NAVY",
+          "colors": {
+            "O": "#3c4c7c",
+            "o": "#2e3d68",
+            "k": "#1a264a"
+          }
+        }
+      ]
+    },
+    "hat_color": {
+      "letters": [
+        "P",
+        "p",
+        "q",
+        "r"
+      ],
+      "options": [
+        {
+          "id": "red",
+          "name": "COLOR_RED",
+          "colors": {
+            "P": "#d4755f",
+            "p": "#c04a3a",
+            "q": "#7d302f",
+            "r": "#f0e0c8"
+          }
+        },
+        {
+          "id": "mustard",
+          "name": "COLOR_MUSTARD",
+          "colors": {
+            "P": "#dab056",
+            "p": "#c8962e",
+            "q": "#826427",
+            "r": "#5a3a22"
+          }
+        },
+        {
+          "id": "forest",
+          "name": "COLOR_FOREST",
+          "colors": {
+            "P": "#7b9a75",
+            "p": "#4e7a56",
+            "q": "#2f5142",
+            "r": "#d8c890"
+          }
+        },
+        {
+          "id": "navy",
+          "name": "COLOR_NAVY",
+          "colors": {
+            "P": "#677a94",
+            "p": "#34507e",
+            "q": "#1d345e",
+            "r": "#e8e0cc"
+          }
+        },
+        {
+          "id": "orange",
+          "name": "COLOR_ORANGE",
+          "colors": {
+            "P": "#e0925f",
+            "p": "#d0703a",
+            "q": "#874a2f",
+            "r": "#3a2a30"
+          }
+        },
+        {
+          "id": "gray",
+          "name": "COLOR_GRAY",
+          "colors": {
+            "P": "#9f9fa1",
+            "p": "#7c808e",
+            "q": "#4e5569",
+            "r": "#3a3c4c"
+          }
+        },
+        {
+          "id": "brown",
+          "name": "COLOR_BROWN",
+          "colors": {
+            "P": "#aa8664",
+            "p": "#8a6040",
+            "q": "#583f34",
+            "r": "#3a2418"
+          }
+        },
+        {
+          "id": "cream",
+          "name": "COLOR_CREAM",
+          "colors": {
+            "P": "#e7dabb",
+            "p": "#d8ccb0",
+            "q": "#8d8980",
+            "r": "#6a4a34"
+          }
+        },
+        {
+          "id": "teal",
+          "name": "COLOR_TEAL",
+          "colors": {
+            "P": "#62a799",
+            "p": "#2e8a84",
+            "q": "#195c62",
+            "r": "#f0e0c8"
+          }
+        },
+        {
+          "id": "black",
+          "name": "COLOR_BLACK",
+          "colors": {
+            "P": "#6d686a",
+            "p": "#3c3a48",
+            "q": "#232539",
+            "r": "#c04a3a"
+          }
+        }
+      ]
+    },
+    "scarf_color": {
+      "letters": [
+        "F",
+        "i",
+        "I"
+      ],
+      "options": [
+        {
+          "id": "red",
+          "name": "COLOR_RED",
+          "colors": {
+            "F": "#f0e0c8",
+            "i": "#c04a3a",
+            "I": "#7d302f"
+          }
+        },
+        {
+          "id": "mustard",
+          "name": "COLOR_MUSTARD",
+          "colors": {
+            "F": "#f4e2b0",
+            "i": "#c8962e",
+            "I": "#826427"
+          }
+        },
+        {
+          "id": "forest",
+          "name": "COLOR_FOREST",
+          "colors": {
+            "F": "#d8c890",
+            "i": "#4e7a56",
+            "I": "#2f5142"
+          }
+        },
+        {
+          "id": "navy",
+          "name": "COLOR_NAVY",
+          "colors": {
+            "F": "#e8e0cc",
+            "i": "#34507e",
+            "I": "#1d345e"
+          }
+        },
+        {
+          "id": "orange",
+          "name": "COLOR_ORANGE",
+          "colors": {
+            "F": "#f6d4a8",
+            "i": "#d0703a",
+            "I": "#874a2f"
+          }
+        },
+        {
+          "id": "gray",
+          "name": "COLOR_GRAY",
+          "colors": {
+            "F": "#d0d2dc",
+            "i": "#7c808e",
+            "I": "#4e5569"
+          }
+        },
+        {
+          "id": "cream",
+          "name": "COLOR_CREAM",
+          "colors": {
+            "F": "#b04a3c",
+            "i": "#d8ccb0",
+            "I": "#8d8980"
+          }
+        },
+        {
+          "id": "teal",
+          "name": "COLOR_TEAL",
+          "colors": {
+            "F": "#d8f0e8",
+            "i": "#2e8a84",
+            "I": "#195c62"
+          }
+        },
+        {
+          "id": "brown",
+          "name": "COLOR_BROWN",
+          "colors": {
+            "F": "#e0c8a0",
+            "i": "#8a6040",
+            "I": "#583f34"
+          }
+        },
+        {
+          "id": "white",
+          "name": "COLOR_WHITE",
+          "colors": {
+            "F": "#7c8090",
+            "i": "#e8e4dc",
+            "I": "#98999e"
+          }
+        }
+      ]
+    }
+  },
+  "shapes": {
+    "hat": [
+      {
+        "id": "none",
+        "name": "HAT_NONE"
+      },
+      {
+        "id": "beanie",
+        "name": "HAT_BEANIE"
+      },
+      {
+        "id": "cap",
+        "name": "HAT_CAP"
+      },
+      {
+        "id": "bucket",
+        "name": "HAT_BUCKET"
+      },
+      {
+        "id": "ranger",
+        "name": "HAT_RANGER"
+      }
+    ],
+    "beard": [
+      {
+        "id": "full",
+        "name": "BEARD_FULL"
+      },
+      {
+        "id": "stubble",
+        "name": "BEARD_STUBBLE"
+      },
+      {
+        "id": "mustache",
+        "name": "BEARD_MUSTACHE"
+      },
+      {
+        "id": "none",
+        "name": "BEARD_NONE"
+      }
+    ],
+    "glasses": [
+      {
+        "id": "none",
+        "name": "GLASSES_NONE"
+      },
+      {
+        "id": "round",
+        "name": "GLASSES_ROUND"
+      },
+      {
+        "id": "shades",
+        "name": "GLASSES_SHADES"
+      }
+    ],
+    "scarf": [
+      {
+        "id": "none",
+        "name": "SCARF_NONE"
+      },
+      {
+        "id": "scarf",
+        "name": "SCARF_SCARF"
+      }
+    ]
+  }
+}

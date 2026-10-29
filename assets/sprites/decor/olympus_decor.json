@@ -1,0 +1,666 @@
+{
+  "image": "olympus_decor.png",
+  "scale": 1.0,
+  "items": [
+    {
+      "name": "tuft_a",
+      "weight": 6,
+      "motion": "sway",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.35,
+      "rect": [
+        0,
+        0,
+        17,
+        7
+      ]
+    },
+    {
+      "name": "tuft_b",
+      "weight": 5,
+      "motion": "sway",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.35,
+      "rect": [
+        18,
+        0,
+        19,
+        9
+      ]
+    },
+    {
+      "name": "tuft_c",
+      "weight": 5,
+      "motion": "sway",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.35,
+      "rect": [
+        38,
+        0,
+        15,
+        6
+      ]
+    },
+    {
+      "name": "tuft_tall",
+      "weight": 2.5,
+      "motion": "sway",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        54,
+        0,
+        18,
+        13
+      ]
+    },
+    {
+      "name": "tuft_wide",
+      "weight": 2.5,
+      "motion": "sway",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.2,
+      "rect": [
+        73,
+        0,
+        22,
+        11
+      ]
+    },
+    {
+      "name": "fern_a",
+      "weight": 1.0,
+      "motion": "sway",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        96,
+        0,
+        23,
+        9
+      ]
+    },
+    {
+      "name": "fern_b",
+      "weight": 0.6,
+      "motion": "sway",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        120,
+        0,
+        30,
+        12
+      ]
+    },
+    {
+      "name": "bush_a",
+      "weight": 1.2,
+      "motion": "rustle",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        151,
+        0,
+        25,
+        12
+      ]
+    },
+    {
+      "name": "bush_b",
+      "weight": 0.8,
+      "motion": "rustle",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        177,
+        0,
+        31,
+        15
+      ]
+    },
+    {
+      "name": "flower_white",
+      "weight": 1.6,
+      "motion": "sway",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        209,
+        0,
+        12,
+        9
+      ]
+    },
+    {
+      "name": "flower_yellow",
+      "weight": 1.4,
+      "motion": "sway",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        222,
+        0,
+        12,
+        8
+      ]
+    },
+    {
+      "name": "flower_lilac",
+      "weight": 1.4,
+      "motion": "sway",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        235,
+        0,
+        12,
+        10
+      ]
+    },
+    {
+      "name": "shroom_tan",
+      "weight": 0.2,
+      "motion": "bob",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        0,
+        16,
+        13,
+        8
+      ]
+    },
+    {
+      "name": "glow_lilac_s",
+      "weight": 0.12,
+      "motion": "bob",
+      "anchor": "floor",
+      "glow": [
+        0.72,
+        0.66,
+        1.0
+      ],
+      "glow_radius": 28,
+      "front": 0.0,
+      "rect": [
+        14,
+        16,
+        12,
+        9
+      ]
+    },
+    {
+      "name": "vine_s",
+      "weight": 3.0,
+      "motion": "sway",
+      "anchor": "ceiling",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        27,
+        16,
+        15,
+        11
+      ]
+    },
+    {
+      "name": "vine_m",
+      "weight": 3.0,
+      "motion": "sway",
+      "anchor": "ceiling",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        43,
+        16,
+        15,
+        17
+      ]
+    },
+    {
+      "name": "vine_l",
+      "weight": 2.2,
+      "motion": "sway",
+      "anchor": "ceiling",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        59,
+        16,
+        15,
+        25
+      ]
+    },
+    {
+      "name": "vine_xl",
+      "weight": 1.2,
+      "motion": "sway",
+      "anchor": "ceiling",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        75,
+        16,
+        15,
+        33
+      ]
+    },
+    {
+      "name": "laurel_a",
+      "weight": 0.9,
+      "motion": "rustle",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "span": 2,
+      "rect": [
+        91,
+        16,
+        36,
+        18
+      ]
+    },
+    {
+      "name": "laurel_b",
+      "weight": 0.6,
+      "motion": "rustle",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "span": 3,
+      "rect": [
+        128,
+        16,
+        44,
+        22
+      ]
+    },
+    {
+      "name": "pampas_a",
+      "weight": 1.3,
+      "motion": "sway",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.3,
+      "rect": [
+        173,
+        16,
+        21,
+        18
+      ]
+    },
+    {
+      "name": "pampas_b",
+      "weight": 0.9,
+      "motion": "sway",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.2,
+      "rect": [
+        195,
+        16,
+        26,
+        23
+      ]
+    },
+    {
+      "name": "flower_rose",
+      "weight": 2.0,
+      "motion": "sway",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        222,
+        16,
+        12,
+        9
+      ]
+    },
+    {
+      "name": "flower_peach",
+      "weight": 1.6,
+      "motion": "sway",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        235,
+        16,
+        12,
+        8
+      ]
+    },
+    {
+      "name": "flower_cream",
+      "weight": 1.6,
+      "motion": "sway",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        0,
+        50,
+        12,
+        10
+      ]
+    },
+    {
+      "name": "column_stub_a",
+      "weight": 0.7,
+      "motion": "none",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        13,
+        50,
+        17,
+        13
+      ]
+    },
+    {
+      "name": "column_stub_b",
+      "weight": 0.5,
+      "motion": "none",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        31,
+        50,
+        17,
+        26
+      ]
+    },
+    {
+      "name": "column_whole",
+      "weight": 0.3,
+      "motion": "none",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        49,
+        50,
+        17,
+        46
+      ]
+    },
+    {
+      "name": "column_big",
+      "weight": 0.14,
+      "motion": "none",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "span": 2,
+      "rect": [
+        67,
+        50,
+        21,
+        60
+      ]
+    },
+    {
+      "name": "column_fallen",
+      "weight": 0.3,
+      "motion": "none",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "span": 3,
+      "rect": [
+        89,
+        50,
+        34,
+        11
+      ]
+    },
+    {
+      "name": "blocks_a",
+      "weight": 0.4,
+      "motion": "none",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "span": 2,
+      "rect": [
+        124,
+        50,
+        22,
+        8
+      ]
+    },
+    {
+      "name": "blocks_b",
+      "weight": 0.35,
+      "motion": "none",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "span": 2,
+      "rect": [
+        147,
+        50,
+        30,
+        16
+      ]
+    },
+    {
+      "name": "ruin_wall",
+      "weight": 0.18,
+      "motion": "none",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "span": 3,
+      "rect": [
+        178,
+        50,
+        46,
+        32
+      ]
+    },
+    {
+      "name": "arch",
+      "weight": 0.12,
+      "motion": "none",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "span": 3,
+      "rect": [
+        0,
+        111,
+        46,
+        44
+      ]
+    },
+    {
+      "name": "urn_a",
+      "weight": 0.5,
+      "motion": "none",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        47,
+        111,
+        13,
+        14
+      ]
+    },
+    {
+      "name": "urn_b",
+      "weight": 0.3,
+      "motion": "none",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        61,
+        111,
+        17,
+        15
+      ]
+    },
+    {
+      "name": "statue_dog",
+      "weight": 0.12,
+      "motion": "none",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "span": 2,
+      "rect": [
+        79,
+        111,
+        18,
+        25
+      ]
+    },
+    {
+      "name": "olive_a",
+      "weight": 0.4,
+      "motion": "sway",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "span": 2,
+      "rect": [
+        98,
+        111,
+        36,
+        28
+      ]
+    },
+    {
+      "name": "olive_b",
+      "weight": 0.3,
+      "motion": "sway",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "span": 2,
+      "rect": [
+        135,
+        111,
+        44,
+        36
+      ]
+    },
+    {
+      "name": "cypress_a",
+      "weight": 0.5,
+      "motion": "sway",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        180,
+        111,
+        15,
+        27
+      ]
+    },
+    {
+      "name": "cypress_b",
+      "weight": 0.3,
+      "motion": "sway",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        196,
+        111,
+        17,
+        41
+      ]
+    },
+    {
+      "name": "chips_a",
+      "weight": 1.0,
+      "motion": "none",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        214,
+        111,
+        9,
+        4
+      ]
+    },
+    {
+      "name": "chips_b",
+      "weight": 1.0,
+      "motion": "none",
+      "anchor": "floor",
+      "glow": null,
+      "glow_radius": 0,
+      "front": 0.0,
+      "rect": [
+        224,
+        111,
+        9,
+        4
+      ]
+    }
+  ]
+}

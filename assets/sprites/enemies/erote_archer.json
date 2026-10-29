@@ -1,0 +1,45 @@
+{
+  "image": "erote_archer.png",
+  "frame_w": 32,
+  "frame_h": 32,
+  "scale": 1.0,
+  "name": "Erote Archer",
+  "theme": "flechas",
+  "tier": 3,
+  "feet": [
+    16,
+    17
+  ],
+  "animations": {
+    "move": {
+      "row": 0,
+      "frames": 4,
+      "fps": 10,
+      "loop": true
+    },
+    "windup": {
+      "row": 1,
+      "frames": 4,
+      "fps": 7,
+      "loop": false
+    },
+    "attack": {
+      "row": 2,
+      "frames": 2,
+      "fps": 10,
+      "loop": false
+    },
+    "hurt": {
+      "row": 3,
+      "frames": 1,
+      "fps": 1,
+      "loop": false
+    },
+    "die": {
+      "row": 4,
+      "frames": 4,
+      "fps": 14,
+      "loop": false
+    }
+  }
+}
