@@ -1,0 +1,455 @@
+{
+ "ball_bounce": {
+  "source": "freesound",
+  "title": "Fruit Impact 3",
+  "author": "OwlStorm",
+  "license": "CC0",
+  "url": "https://freesound.org/people/OwlStorm/sounds/209018/",
+  "file": "ball_bounce.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "beam": {
+  "source": "kenney",
+  "title": "laserLarge_000.ogg",
+  "author": "Kenney",
+  "license": "CC0",
+  "url": "https://kenney.nl/assets/sci-fi-sounds",
+  "pack": "Sci-fi Sounds",
+  "file": "beam.wav",
+  "changes": "silêncio inicial cortado, volume ajustado, mono"
+ },
+ "beam_charge": {
+  "source": "freesound",
+  "title": "Laser Charge Up",
+  "author": "magnuswaker",
+  "license": "CC0",
+  "url": "https://freesound.org/people/magnuswaker/sounds/588242/",
+  "file": "beam_charge.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "bolt": {
+  "source": "freesound",
+  "title": "Sword_Thunder01.wav",
+  "author": "SonoFxAudio",
+  "license": "CC BY 4.0",
+  "url": "https://freesound.org/people/SonoFxAudio/sounds/649360/",
+  "file": "bolt.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "bolt_charge": {
+  "source": "freesound",
+  "title": "JacobsLadderSingle2.flac",
+  "author": "Halleck",
+  "license": "CC BY 4.0",
+  "url": "https://freesound.org/people/Halleck/sounds/19487/",
+  "file": "bolt_charge.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "boom": {
+  "source": "opengameart",
+  "title": "retro_explosion_01.ogg",
+  "author": "rubberduck",
+  "license": "CC0",
+  "url": "https://opengameart.org/content/50-cc0-retro-synth-sfx",
+  "pack": "50 CC0 retro / synth SFX",
+  "file": "boom.wav",
+  "changes": "silêncio inicial cortado, volume ajustado, mono"
+ },
+ "boss_loop": {
+  "source": "mixkit",
+  "title": "Ominous drums",
+  "author": "Mixkit",
+  "license": "Mixkit Sound Effects Free License",
+  "url": "https://mixkit.co/free-sound-effects/drum/",
+  "file": "boss_loop.ogg",
+  "changes": "ciclo com fusão de 1,5 s, volume ajustado, estéreo"
+ },
+ "boss_sting": {
+  "source": "mixkit",
+  "title": "Dramatic metal explosion impact",
+  "author": "Mixkit",
+  "license": "Mixkit Sound Effects Free License",
+  "url": "https://mixkit.co/free-sound-effects/cinematic/",
+  "file": "boss_sting.ogg",
+  "changes": "silêncio inicial cortado, volume ajustado, mono"
+ },
+ "bow_draw": {
+  "source": "freesound",
+  "title": "Bow_draw_fast02.wav",
+  "author": "SonoFxAudio",
+  "license": "CC BY 4.0",
+  "url": "https://freesound.org/people/SonoFxAudio/sounds/649337/",
+  "file": "bow_draw.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "charge": {
+  "source": "freesound",
+  "title": "Charge up",
+  "author": "SamsterBirdies",
+  "license": "CC0",
+  "url": "https://freesound.org/people/SamsterBirdies/sounds/483883/",
+  "file": "charge.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "checkpoint": {
+  "source": "freesound",
+  "title": "Match strike",
+  "author": "Bertsz",
+  "license": "CC0",
+  "url": "https://freesound.org/people/Bertsz/sounds/524306/",
+  "file": "checkpoint.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "clank": {
+  "source": "kenney",
+  "title": "impactMetal_heavy_003.ogg",
+  "author": "Kenney",
+  "license": "CC0",
+  "url": "https://kenney.nl/assets/impact-sounds",
+  "pack": "Impact Sounds",
+  "file": "clank.wav",
+  "changes": "silêncio inicial cortado, volume ajustado, mono"
+ },
+ "collectible": {
+  "source": "mixkit",
+  "title": "Arcade bonus",
+  "author": "Mixkit",
+  "license": "Mixkit Sound Effects Free License",
+  "url": "https://mixkit.co/free-sound-effects/arcade/",
+  "file": "collectible.wav",
+  "changes": "silêncio inicial cortado, volume ajustado, mono"
+ },
+ "croak": {
+  "source": "freesound",
+  "title": "wood frog ribbit - 2.aif",
+  "author": "LittleJohn13",
+  "license": "CC BY 3.0",
+  "url": "https://freesound.org/people/LittleJohn13/sounds/566621/",
+  "file": "croak.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "crumble": {
+  "source": "freesound",
+  "title": "Kirkstall Rock Crumble .wav",
+  "author": "rokenjocu",
+  "license": "CC0",
+  "url": "https://freesound.org/people/rokenjocu/sounds/262118/",
+  "file": "crumble.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "crystal": {
+  "source": "opengameart",
+  "title": "sfx_coin_single2.wav",
+  "author": "SubspaceAudio (Juhani Junkala)",
+  "license": "CC0",
+  "url": "https://opengameart.org/content/512-sound-effects-8-bit-style",
+  "pack": "512 Sound Effects (8-bit style)",
+  "file": "crystal.wav",
+  "changes": "silêncio inicial cortado, volume ajustado, mono"
+ },
+ "dash": {
+  "source": "freesound",
+  "title": "SFX_WooshShortDash8",
+  "author": "kx.audio",
+  "license": "CC BY 4.0",
+  "url": "https://freesound.org/people/kx.audio/sounds/760002/",
+  "file": "dash.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "dash_refill": {
+  "source": "opengameart",
+  "title": "sfx_coin_single2.wav",
+  "author": "SubspaceAudio (Juhani Junkala)",
+  "license": "CC0",
+  "url": "https://opengameart.org/content/512-sound-effects-8-bit-style",
+  "pack": "512 Sound Effects (8-bit style)",
+  "file": "dash_refill.wav",
+  "changes": "silêncio inicial cortado, volume ajustado, mono",
+  "same_as": "crystal"
+ },
+ "death": {
+  "source": "opengameart",
+  "title": "synth_misc_01.ogg",
+  "author": "rubberduck",
+  "license": "CC0",
+  "url": "https://opengameart.org/content/50-cc0-retro-synth-sfx",
+  "pack": "50 CC0 retro / synth SFX",
+  "file": "death.wav",
+  "changes": "silêncio inicial cortado, volume ajustado, mono"
+ },
+ "door_slam": {
+  "source": "freesound",
+  "title": "Door Gate Slam In The Night With Courtyard Echo 96kHz.flac",
+  "author": "qubodup",
+  "license": "CC0",
+  "url": "https://freesound.org/people/qubodup/sounds/159552/",
+  "file": "door_slam.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "double_jump": {
+  "source": "opengameart",
+  "title": "sfx_movement_jump10.wav",
+  "author": "SubspaceAudio (Juhani Junkala)",
+  "license": "CC0",
+  "url": "https://opengameart.org/content/512-sound-effects-8-bit-style",
+  "pack": "512 Sound Effects (8-bit style)",
+  "file": "double_jump.wav",
+  "changes": "silêncio inicial cortado, volume ajustado, mono",
+  "same_as": "jump"
+ },
+ "fuse": {
+  "source": "freesound",
+  "title": "Match Sizzle 02",
+  "author": "squareal",
+  "license": "CC0",
+  "url": "https://freesound.org/people/squareal/sounds/237407/",
+  "file": "fuse.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "gate_open": {
+  "source": "freesound",
+  "title": "Hidden Wall Opening",
+  "author": "ertfelda",
+  "license": "CC0",
+  "url": "https://freesound.org/people/ertfelda/sounds/243699/",
+  "file": "gate_open.ogg",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "gift": {
+  "source": "freesound",
+  "title": "Level Up 01",
+  "author": "mokasza",
+  "license": "CC BY 4.0",
+  "url": "https://freesound.org/people/mokasza/sounds/810753/",
+  "file": "gift.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "gust": {
+  "source": "freesound",
+  "title": "Woosh",
+  "author": "florianreichelt",
+  "license": "CC0",
+  "url": "https://freesound.org/people/florianreichelt/sounds/683096/",
+  "file": "gust.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "hit": {
+  "source": "freesound",
+  "title": "big thud.wav",
+  "author": "Reitanna",
+  "license": "CC0",
+  "url": "https://freesound.org/people/Reitanna/sounds/332661/",
+  "file": "hit.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "jump": {
+  "source": "opengameart",
+  "title": "sfx_movement_jump10.wav",
+  "author": "SubspaceAudio (Juhani Junkala)",
+  "license": "CC0",
+  "url": "https://opengameart.org/content/512-sound-effects-8-bit-style",
+  "pack": "512 Sound Effects (8-bit style)",
+  "file": "jump.wav",
+  "changes": "silêncio inicial cortado, volume ajustado, mono"
+ },
+ "lake_loop": {
+  "source": "freesound",
+  "title": "Lake At Night.aif",
+  "author": "timgormly",
+  "license": "CC0",
+  "url": "https://freesound.org/people/timgormly/sounds/148318/",
+  "file": "lake_loop.ogg",
+  "changes": "a partir da prévia OGG do Freesound, ciclo com fusão de 1,5 s, volume ajustado, estéreo"
+ },
+ "land": {
+  "source": "mixkit",
+  "title": "Game ball tap",
+  "author": "Mixkit",
+  "license": "Mixkit Sound Effects Free License",
+  "url": "https://mixkit.co/free-sound-effects/game/",
+  "file": "land.wav",
+  "changes": "silêncio inicial cortado, volume ajustado, mono"
+ },
+ "menu_back": {
+  "source": "freesound",
+  "title": "Simple or Cute UI / UX / Interface Cancel sound",
+  "author": "Feraly_",
+  "license": "CC0",
+  "url": "https://freesound.org/people/Feraly_/sounds/836449/",
+  "file": "menu_back.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "menu_move": {
+  "source": "freesound",
+  "title": "Simple or Cute UI / UX / Interface Hover sound",
+  "author": "Feraly_",
+  "license": "CC0",
+  "url": "https://freesound.org/people/Feraly_/sounds/836451/",
+  "file": "menu_move.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "menu_select": {
+  "source": "freesound",
+  "title": "Simple or Cute UI / UX / Interface Confirm sound",
+  "author": "Feraly_",
+  "license": "CC0",
+  "url": "https://freesound.org/people/Feraly_/sounds/836450/",
+  "file": "menu_select.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "mine_arm": {
+  "source": "opengameart",
+  "title": "synth_beep_02.ogg",
+  "author": "rubberduck",
+  "license": "CC0",
+  "url": "https://opengameart.org/content/50-cc0-retro-synth-sfx",
+  "pack": "50 CC0 retro / synth SFX",
+  "file": "mine_arm.wav",
+  "changes": "silêncio inicial cortado, volume ajustado, mono"
+ },
+ "respawn": {
+  "source": "mixkit",
+  "title": "Fairy arcade sparkle",
+  "author": "Mixkit",
+  "license": "Mixkit Sound Effects Free License",
+  "url": "https://mixkit.co/free-sound-effects/video-game/",
+  "file": "respawn.wav",
+  "changes": "silêncio inicial cortado, volume ajustado, mono"
+ },
+ "screech": {
+  "source": "freesound",
+  "title": "red-tailed-hawk-flying-away.wav",
+  "author": "1888software",
+  "license": "CC0",
+  "url": "https://freesound.org/people/1888software/sounds/575525/",
+  "file": "screech.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "shot": {
+  "source": "kenney",
+  "title": "laserSmall_000.ogg",
+  "author": "Kenney",
+  "license": "CC0",
+  "url": "https://kenney.nl/assets/sci-fi-sounds",
+  "pack": "Sci-fi Sounds",
+  "file": "shot.wav",
+  "changes": "silêncio inicial cortado, volume ajustado, mono"
+ },
+ "snap": {
+  "source": "freesound",
+  "title": "[Perc] Short Click/Snap Perc",
+  "author": "waveplaySFX",
+  "license": "CC0",
+  "url": "https://freesound.org/people/waveplaySFX/sounds/399934/",
+  "file": "snap.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "snort": {
+  "source": "mixkit",
+  "title": "Cow animal breath",
+  "author": "Mixkit",
+  "license": "Mixkit Sound Effects Free License",
+  "url": "https://mixkit.co/free-sound-effects/breathe/",
+  "file": "snort.ogg",
+  "changes": "silêncio inicial cortado, volume ajustado, mono"
+ },
+ "spark_pop": {
+  "source": "freesound",
+  "title": "Spark.wav",
+  "author": "BMacZero",
+  "license": "CC0",
+  "url": "https://freesound.org/people/BMacZero/sounds/94132/",
+  "file": "spark_pop.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "splash": {
+  "source": "freesound",
+  "title": "splash01.wav",
+  "author": "JanKoehl",
+  "license": "CC BY 4.0",
+  "url": "https://freesound.org/people/JanKoehl/sounds/85599/",
+  "file": "splash.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "spring": {
+  "source": "freesound",
+  "title": "Cute Bounce Jump.wav",
+  "author": "Hemplock",
+  "license": "CC0",
+  "url": "https://freesound.org/people/Hemplock/sounds/618961/",
+  "file": "spring.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "storm_loop": {
+  "source": "freesound",
+  "title": "Light Rain",
+  "author": "soundrecorder7",
+  "license": "CC0",
+  "url": "https://freesound.org/people/soundrecorder7/sounds/167034/",
+  "file": "storm_loop.ogg",
+  "changes": "a partir da prévia OGG do Freesound, ciclo com fusão de 1,5 s, volume ajustado, estéreo"
+ },
+ "swim": {
+  "source": "freesound",
+  "title": "Water_Paddle_soft_024.wav",
+  "author": "EpicWizard",
+  "license": "CC0",
+  "url": "https://freesound.org/people/EpicWizard/sounds/316597/",
+  "file": "swim.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "swoop": {
+  "source": "freesound",
+  "title": "swoop2g.flac",
+  "author": "Streety",
+  "license": "CC0",
+  "url": "https://freesound.org/people/Streety/sounds/30241/",
+  "file": "swoop.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "thunder": {
+  "source": "freesound",
+  "title": "thunder1.wav",
+  "author": "nednednerb",
+  "license": "CC0",
+  "url": "https://freesound.org/people/nednednerb/sounds/38244/",
+  "file": "thunder.ogg",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "thunder_far": {
+  "source": "freesound",
+  "title": "Distant Thunder 3",
+  "author": "Fission9",
+  "license": "CC0",
+  "url": "https://freesound.org/people/Fission9/sounds/581124/",
+  "file": "thunder_far.ogg",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "tongue": {
+  "source": "mixkit",
+  "title": "Hard pop click",
+  "author": "Mixkit",
+  "license": "Mixkit Sound Effects Free License",
+  "url": "https://mixkit.co/free-sound-effects/cartoon/",
+  "file": "tongue.wav",
+  "changes": "silêncio inicial cortado, volume ajustado, mono"
+ },
+ "twang": {
+  "source": "freesound",
+  "title": "Bow Release (Bow and Arrow) 3",
+  "author": "Ali_6868",
+  "license": "CC0",
+  "url": "https://freesound.org/people/Ali_6868/sounds/384918/",
+  "file": "twang.wav",
+  "changes": "a partir da prévia OGG do Freesound, silêncio inicial cortado, volume ajustado, mono"
+ },
+ "wall_jump": {
+  "source": "mixkit",
+  "title": "Quick jump arcade game",
+  "author": "Mixkit",
+  "license": "Mixkit Sound Effects Free License",
+  "url": "https://mixkit.co/free-sound-effects/video-game/",
+  "file": "wall_jump.wav",
+  "changes": "silêncio inicial cortado, volume ajustado, mono"
+ }
+}

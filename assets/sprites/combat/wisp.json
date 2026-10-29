@@ -1,0 +1,26 @@
+{
+  "image": "wisp.png",
+  "frame_w": 24,
+  "frame_h": 24,
+  "scale": 1.0,
+  "animations": {
+    "idle": {
+      "row": 0,
+      "frames": 4,
+      "fps": 5,
+      "loop": true
+    },
+    "charge": {
+      "row": 1,
+      "frames": 4,
+      "fps": 8,
+      "loop": false
+    },
+    "fire": {
+      "row": 2,
+      "frames": 2,
+      "fps": 12,
+      "loop": false
+    }
+  }
+}

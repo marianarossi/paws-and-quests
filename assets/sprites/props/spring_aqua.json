@@ -1,0 +1,25 @@
+{
+  "image": "spring_aqua.png",
+  "frame_w": 32,
+  "frame_h": 22,
+  "scale": 1.0,
+  "light": [
+    0.5,
+    0.95,
+    0.83
+  ],
+  "animations": {
+    "idle": {
+      "row": 0,
+      "frames": 4,
+      "fps": 4,
+      "loop": true
+    },
+    "squash": {
+      "row": 1,
+      "frames": 2,
+      "fps": 12,
+      "loop": false
+    }
+  }
+}

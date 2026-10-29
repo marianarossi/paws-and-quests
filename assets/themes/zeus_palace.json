@@ -1,0 +1,59 @@
+{
+  "id": "zeus_palace",
+  "title": "Thunder Court",
+  "family": "Little Olympus",
+  "idea": "O sal\u00e3o do trono de Zeus, abandonado desde que ele sumiu (s\u00f3 ficou o c\u00e3o a tomar conta): colunas colossais com hera e teias, e a tempestade a rebentar l\u00e1 fora; o trono gigante e, no assento, a almofada pequenina do c\u00e3o.",
+  "ground": "O m\u00e1rmore liso do port\u00e3o, com a sombra da tempestade por cima (arroxeado).",
+  "terrain": "zeus_palace_terrain.png",
+  "sky": "zeus_palace_sky.png",
+  "layers": [
+    {
+      "texture": "zeus_palace_anvils.png",
+      "scale": 0.02,
+      "autoscroll": -1.5,
+      "scale_y": 0.01
+    },
+    {
+      "texture": "zeus_palace_drifting.png",
+      "scale": 0.03,
+      "autoscroll": -5,
+      "scale_y": 0.015
+    },
+    {
+      "texture": "zeus_palace_hall_far.png",
+      "scale": 0.08,
+      "scale_y": 0.04,
+      "bolts": "far"
+    },
+    {
+      "texture": "zeus_palace_hall_mid.png",
+      "scale": 0.2,
+      "scale_y": 0.1,
+      "bolts": "big"
+    },
+    {
+      "texture": "zeus_palace_shafts.png",
+      "scale": 0.2,
+      "scale_y": 0.1,
+      "flash": true
+    },
+    {
+      "texture": "zeus_palace_mist.png",
+      "scale": 0.3,
+      "scale_y": 0.15,
+      "autoscroll": -4
+    }
+  ],
+  "ambience": "storm_loop",
+  "music": "",
+  "ambient": "#948ac2",
+  "platform_tint": "#b8b0e0",
+  "decor_density": 0.0,
+  "ceiling_density": 0.0,
+  "particles": "drizzle",
+  "particle_color": "#b8c8f4",
+  "spring_colors": [
+    "aqua",
+    "lilac"
+  ]
+}

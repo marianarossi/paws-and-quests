@@ -1,0 +1,51 @@
+{
+  "image": "empusa_bat.png",
+  "frame_w": 32,
+  "frame_h": 32,
+  "scale": 1.0,
+  "name": "Empusa Bat",
+  "theme": "emboscada",
+  "tier": 2,
+  "feet": [
+    16,
+    16
+  ],
+  "animations": {
+    "hang": {
+      "row": 0,
+      "frames": 2,
+      "fps": 2,
+      "loop": true
+    },
+    "peek": {
+      "row": 1,
+      "frames": 2,
+      "fps": 5,
+      "loop": false
+    },
+    "move": {
+      "row": 2,
+      "frames": 4,
+      "fps": 12,
+      "loop": true
+    },
+    "attack": {
+      "row": 3,
+      "frames": 3,
+      "fps": 14,
+      "loop": true
+    },
+    "hurt": {
+      "row": 4,
+      "frames": 1,
+      "fps": 1,
+      "loop": false
+    },
+    "die": {
+      "row": 5,
+      "frames": 4,
+      "fps": 14,
+      "loop": false
+    }
+  }
+}

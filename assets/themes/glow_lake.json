@@ -1,0 +1,92 @@
+{
+  "id": "glow_lake",
+  "title": "Glimmer Hollow",
+  "family": "Floresta",
+  "idea": "Uma clareira com um grande lago, de noite: a lua e o seu rasto a tremeluzir na água, um maciço de montanha com neve espelhado, vitórias-régias, névoa rente à água, juncos e sapinhos.",
+  "ground": "Terra castanha que passa a ameixa e a pedra azul-violeta, com relva verde-menta e florzinhas claras.",
+  "terrain": "glow_lake_terrain.png",
+  "sky": "glow_lake_sky.png",
+  "layers": [
+    {
+      "texture": "glow_lake_hills.png",
+      "scale": 0.0,
+      "scale_y": 0.12
+    },
+    {
+      "texture": "glow_lake_haze.png",
+      "scale": 0.0,
+      "scale_y": 0.12,
+      "autoscroll": -2
+    },
+    {
+      "texture": "glow_lake_shore.png",
+      "scale": 0.0,
+      "scale_y": 0.12
+    },
+    {
+      "texture": "glow_lake_water.png",
+      "scale": 0.0,
+      "scale_y": 0.12
+    },
+    {
+      "texture": "glow_lake_trail.png",
+      "scale": 0.0,
+      "scale_y": 0.12,
+      "shimmer": true
+    },
+    {
+      "texture": "glow_lake_glitter.png",
+      "scale": 0.0,
+      "scale_y": 0.12,
+      "autoscroll": -3
+    },
+    {
+      "texture": "glow_lake_lilies_far.png",
+      "scale": 0.06,
+      "scale_y": 0.12
+    },
+    {
+      "texture": "glow_lake_mist.png",
+      "scale": 0.1,
+      "autoscroll": -5,
+      "scale_y": 0.13
+    },
+    {
+      "texture": "glow_lake_lilies.png",
+      "scale": 0.16,
+      "scale_y": 0.16
+    },
+    {
+      "texture": "glow_lake_rays.png",
+      "scale": 0.27,
+      "scale_y": 0.2
+    },
+    {
+      "texture": "glow_lake_mid.png",
+      "scale": 0.27,
+      "scale_y": 0.2
+    },
+    {
+      "texture": "glow_lake_near.png",
+      "scale": 0.44,
+      "scale_y": 0.3
+    }
+  ],
+  "decor": "grove_decor.json",
+  "water_platform": "glow_lake_platform.png",
+  "critters": "frogs",
+  "ambience": "lake_loop",
+  "music": "burrow_echoes",
+  "ambient": "#c0c0ff",
+  "decor_tint": "#d0d4f8",
+  "decor_density": 0.8,
+  "particles": "fireflies",
+  "particle_color": "#d8ff8a",
+  "water_top": "#7f88e84c",
+  "water_deep": "#0e0c36fa",
+  "water_foam": "#e4dcfff0",
+  "spring_colors": [
+    "pink",
+    "green"
+  ]
+}

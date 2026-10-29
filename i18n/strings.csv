@@ -1,0 +1,174 @@
+keys,en,pt_BR
+GAME_TITLE,Paws & Quests,Paws & Quests
+LAB_HINT,Move: A/D or arrows   Jump: Space/Z   Dash: Shift/X (aim with the move keys; try jumping out of a dash)   R: restart   1/2: toggle dash / double jump   F3: debug   F11: fullscreen   Esc: quit,Mover: A/D ou setas   Pular: Espaço/Z   Dash: Shift/X (mire com as teclas de movimento; tente pular saindo de um dash)   R: recomeçar   1/2: liga/desliga dash / pulo duplo   F3: depuração   F11: tela cheia   Esc: sair
+HUD_STATS,Deaths %d   %s,Mortes %d   %s
+ZONE_EMBER_CAMP,Ember Camp,Ember Camp
+ZONE_WHISPERWOOD,Whisperwood,Whisperwood
+ZONE_TWILIGHT_GROVE,Twilight Grove,Twilight Grove
+ZONE_GLIMMER_HOLLOW,Glimmer Hollow,Glimmer Hollow
+ZONE_LITTLE_OLYMPUS,Little Olympus,Little Olympus
+ZONE_THUNDER_COURT,Thunder Court,Thunder Court
+HINT_MOVE,{left} {right}  Move,{left} {right}  Andar
+HINT_JUMP,{jump}  Jump,{jump}  Pular
+HINT_THROW,{jump}  Throw the ball,{jump}  Jogar a bolinha
+INTRO_WOOF,Woof!,Au au!
+INTRO_CALL,Sirius?,Sirius?
+INTRO_SHOUT,SIRIUS!,SIRIUS!
+INTRO_BALL,"Hang on, buddy. I'm coming.","Aguenta firme, amigão. Tô indo."
+HINT_THROW_GRAB,Hold {grab} and let go to throw,Segure {grab} e solte para jogar
+FIGHT_ZZZ,Zzz,Zzz
+END_TITLE,The End,Fim
+BOSS_NAME,LAELAPS,LAELAPS
+BOSS_TITLE,Hound of Zeus,Cão de Zeus
+END_LINE,Laelaps found a new best friend.,Laelaps encontrou um novo melhor amigo.
+END_LORE,"Solitude manifests differently in every heart,|where some retreat into darkness, others strive to heal the emptiness within.|You have proven to Laelaps that love remains present in this world.||Aphrodite is pleased,|and you are no longer alone.","A solidão se manifesta de um jeito diferente em cada coração,|onde alguns se recolhem na escuridão, e outros lutam para curar o vazio que trazem dentro.|Você provou a Laelaps que o amor ainda está presente neste mundo.||Afrodite está satisfeita,|e você não está mais sozinho."
+END_RESULTS,Your Journey,Sua Jornada
+END_CONTINUE,Continue,Continuar
+STATS_TIME,Time  %s,Tempo  %s
+STATS_DEATHS,Deaths  %d,Mortes  %d
+HINT_JUMP_HOLD,Hold {jump} to jump higher,Segure {jump} para pular mais alto
+HINT_WALL,Slide down a wall and press {jump},Deslize numa parede e aperte {jump}
+HINT_DASH,"Jump, then {dash} in mid-air",Pule e aperte {dash} no ar
+HINT_DASH_UP,Hold {up} and press {dash} to dash up,Segure {up} e aperte {dash} para subir
+HINT_DASH_DIAGONAL,Hold {up} {right} and press {dash},Segure {up} {right} e aperte {dash}
+HINT_PAW,Paws give your dash back,As patas devolvem o seu dash
+HINT_DASH_SPARK,{dash}  Dash through sparks,{dash}  Atravesse as faíscas
+HINT_DIVE,Hold {down} to dive,Segure {down} para mergulhar
+GIFT_TITLE,Aphrodite's Gift,O Presente de Afrodite
+GIFT_DASH,Dash in any direction,Dash em qualquer direção
+GIFT_DOUBLE_JUMP,Jump again in mid-air,Pule de novo no ar
+NOTE_DASH_1,Feel the warmth that now burns within your veins.,Sinta o calor que agora arde nas suas veias.
+NOTE_DASH_2,Go forth and rescue your companion.,Vá e resgate o seu companheiro.
+NOTE_DASH_3,"This power was born of love,","Este poder nasceu do amor,"
+NOTE_DASH_4,and for love it must serve.,e ao amor ele deve servir.
+NOTE_DASH_5,Let the passion for your hound,Que a paixão pelo seu cão
+NOTE_DASH_6,be your only compass.,seja a sua única bússola.
+MENU_CONTINUE,Continue,Continuar
+MENU_NEW_GAME,New Game,Novo Jogo
+MENU_OPTIONS,Options,Opções
+MENU_CREDITS,Credits,Créditos
+MENU_QUIT,Quit,Sair
+MENU_RESUME,Resume,Continuar
+MENU_TO_TITLE,Main Menu,Menu Principal
+MENU_PAUSED,Paused,Pausa
+MENU_BACK,Back,Voltar
+OPT_MUSIC,Music,Música
+OPT_SFX,Sound,Sons
+OPT_FULLSCREEN,Fullscreen,Tela Cheia
+OPT_VSYNC,VSync,VSync
+OPT_ON,On,Sim
+OPT_OFF,Off,Não
+CONFIRM_NEW_GAME,Start a new game?,Começar um novo jogo?
+CONFIRM_NEW_GAME_HINT,Your saved progress will be lost.,O progresso salvo será perdido.
+CONFIRM_YES,Start Over,Recomeçar
+CONFIRM_NO,Cancel,Cancelar
+CREDITS_GAME_BY,A game by,Um jogo de
+CREDITS_AUTHOR,Mariana Rossi,Mariana Rossi
+CREDITS_SUPERVISION,Supervision,Orientação
+CREDITS_SUPERVISORS,"Rui Pedro Lopes, Júlio César Leal de Faria","Rui Pedro Lopes, Júlio César Leal de Faria"
+CREDITS_SCHOOL,Polytechnic University of Bragança,Universidade Politécnica de Bragança
+CREDITS_COURSE,"Informatics Engineering, 2025/2026","Engenharia Informática, 2025/2026"
+CREDITS_TECH,Made with Godot Engine.,Feito com a Godot Engine.
+CREDITS_MUSIC,"Music, made with Suno","Música, feita com o Suno"
+CREDITS_MUSIC_BY,"Campfire Trail, Burrow Echoes","Campfire Trail, Burrow Echoes"
+CREDITS_SFX,Sound effects (full list in CREDITS.md),Efeitos sonoros (lista completa em CREDITS.md)
+CREDITS_SFX_BY,"Freesound, Mixkit, OpenGameArt, Kenney","Freesound, Mixkit, OpenGameArt, Kenney"
+HINT_GRAB,Hold {grab_all} to hold onto a wall,Segure {grab_all} para se agarrar à parede
+FEATHER_TITLE,Marshmallow,Marshmallow
+FEATHER_COUNT,%d / %d,%d / %d
+FEATHER_PAUSE,Marshmallows  %d / %d,Marshmallows  %d / %d
+DIARY_TITLE,Arthur Nicholson's Journal,Diário de Arthur Nicholson
+DIARY_TODO_TITLE,Things to do,Coisas a fazer
+DIARY_TODO,~start the journal|write down what I did and how I feel|drink more water|~buy her marshmallows|~get a new sleeping pad|walk Sirius more|take Rose to see the stars one last time,~começar o diário|escrever o que fiz e o que sinto|beber mais água|~comprar os marshmallows dela|~trocar o colchonete|passear mais com o Sirius|levar a Rose para ver as estrelas uma última vez
+DIARY_DAY,Day %d,Dia %d
+DIARY_DAY_1,"Well. Hello.|My name is Arthur Nicholson, and I'm keeping this journal because I promised my wife I would. I still don't know what I'm supposed to put in it, but a promise is a promise.|Rained all day. Didn't take Sirius for his walk. I haven't got it in me yet, not after everything. He's what keeps me going. Somebody has to feed him, and he hates being alone.|Funny thing about dogs. He understands everything, and nobody has to say a word. He just stays close. I used to shoo him off the bed so he wouldn't muddy the sheets. Not anymore.|The forecast says more rain. Everything's packed for our last trip, but it'll have to wait. She wanted to see the stars, and you can't see a single one through all this. I already bought the marshmallows she loves, and a new sleeping pad, since the old one was killing my back.|Good night.","Olá.|Meu nome é Arthur Nicholson. Começo este diário porque prometi à minha esposa. Ainda não sei bem o que devo escrever, mas promessa é promessa.|Choveu o dia todo. Não levei o Sirius para passear: ainda não tenho forças, depois do que aconteceu. Ele é o único motivo para eu sair da cama de manhã. Não posso deixá-lo sem comida nem companhia.|Cachorros são estranhos. Ele entende tudo sem que ninguém diga uma palavra; basta ficar por perto. Antes eu não o deixava subir na cama, para não sujar as cobertas. Agora já não me importo.|A previsão diz que vai continuar chovendo. Está tudo pronto para a nossa última viagem, mas vou ter de esperar. Ela queria ver as estrelas, e com estas nuvens não se vê nenhuma. Já comprei os marshmallows que ela adora e troquei o colchonete que acabava com as minhas costas.|Boa noite."
+DIARY_DAY_2,"Sirius choked on a chunk of his tennis ball today, the one Rose gave him. Scared me half to death. For a few seconds I forgot about everything else. He coughed it up, wagged his tail and dropped the ball right back in my lap, covered in slobber, like nothing happened.|Looking after this dog feels like a chore some days, but he's a blessing. Rose would say the gods sent that scare just to get me off the couch and drinking a glass of water.|She really believed that. That somebody up there is looking out for us.","Hoje o Sirius engasgou com um pedaço da bolinha de tênis, aquela que a Rose deu a ele. Levei um susto e, por alguns segundos, esqueci todo o resto. Ele cuspiu o pedaço, abanou o rabo e me trouxe a bolinha de volta, toda babada, como se nada tivesse acontecido.|Cuidar deste cachorro parece um fardo, mas é uma bênção. A Rose diria que foram os deuses que mandaram aquele susto, só para me ver levantar do sofá e beber um copo d'água.|Ela acreditava nisso: que lá em cima há alguém olhando por nós."
+DIARY_DAY_3,"What's the point of writing in a notebook nobody's ever going to read? All it does is dredge up memories that keep me awake.|I know, Rose. You'd tell me I'm looking at the sky all wrong, hunting for clouds instead of stars. But it hasn't been long. It still hurts too much.|Your roses out back keep on blooming, like nobody told them. You always said they had to be the prettiest on the street, seeing as they were named after you. They still are.|Still raining. My eyes won't clear up either. I'm not ready.","Para que escrever num caderno que ninguém vai ler? Só me traz lembranças que não me deixam dormir.|Eu sei, Rose. Você diria que estou olhando para o céu com os olhos errados, procurando as nuvens em vez das estrelas. Mas faz tão pouco tempo. Ainda dói muito.|As suas rosas no quintal continuam abrindo, como se ninguém as tivesse avisado. Você dizia que elas eram suas xarás e que, por isso, tinham de ser as mais bonitas da rua. Ainda são.|Ainda chove. Meus olhos continuam nublados. Não estou pronto."
+DIARY_DAY_4,"My nephew stopped by today. He's gotten so big. He brought groceries, played with Sirius and helped me clean up the house, which was buried in dust. Heart of gold, that boy, just like Rose always said.|Moving on still feels like a betrayal. I see you everywhere. In your armchair, at the sewing machine, in that magazine you read cover to cover a hundred times.|But he said something that stuck with me. When I see you around the house, I should think of the good times, because those don't go anywhere. Your first Christmas turkey. The New Year's fireworks. That field of flowers. The camping trip when you showed me that the brightest star in the sky belongs to a dog. Sirius, the Dog Star. That's why, the day that puppy showed up at our door, you wouldn't hear of any other name.|He also said the rain's finally stopped out there, and the sky's supposed to stay clear for a month. In here it's still pouring, and the thunder is something else.|Maybe that's just how it goes. You face the cold, the rain and the lightning. That's how it's been my whole life, isn't it?|All right, Rose. You'll see the stars one last time. Sirius and I will take you.|We leave tomorrow.|Good night, sweetheart.","Hoje meu sobrinho veio aqui. O garoto está enorme. Trouxe comida, brincou com o Sirius e me ajudou a arrumar a casa, que estava coberta de pó. Um menino de ouro, como a Rose sempre dizia.|Seguir em frente ainda me parece falta de respeito. Vejo você em todo canto: na sua poltrona, na máquina de costura, na revista que você lia e relia.|Mas ele disse uma coisa que ficou comigo: quando eu vir você pela casa, tenho de me lembrar dos bons momentos. Esses não vão embora. O seu primeiro peru de Natal. Os fogos de Ano-Novo. O campo de flores. O acampamento em que você me mostrou que a estrela mais brilhante do céu pertence a um cão. Sirius, a estrela do Cão Maior. Foi por isso que, quando aquele filhote apareceu lá em casa, você não quis saber de outro nome.|Ele também disse que lá fora parou de chover e que o céu vai ficar limpo por um mês. Aqui dentro a chuva continua, e troveja forte.|Mas acho que é isso: enfrentar o frio, a água e o relâmpago. Foi assim a vida toda, não foi?|Tudo bem, Rose. Você vai ver as estrelas uma última vez. O Sirius e eu vamos levar você.|Partimos amanhã.|Boa noite, meu amor."
+DIARY_DAY_5,"We made it. All three of us.|You rode up front, same as always. Sirius had his head out the window the whole way. Before we left, I cut one of your roses to bring along.|I pitched the tent in the same spot as last time and got the fire going. The marshmallows are on the stick, just how you like them: nearly burnt.|It'll be dark soon, Rose, and you'll get to see your stars. I'll show you where Sirius is up there, the way you showed me.|Sirius is staring at me with that ball in his mouth. He never gives up.|Be right back.","Chegamos. Nós três.|Você veio no banco da frente, como sempre. O Sirius passou o caminho todo com a cabeça para fora da janela. Antes de sairmos, cortei uma das suas rosas para trazer junto.|Montei a barraca no mesmo lugar daquela vez e acendi a fogueira. Os marshmallows estão no espeto, do jeito que você gosta: quase queimados.|O céu está limpo, Rose. Nenhuma nuvem. Daqui a pouco escurece, e você vai ver as suas estrelas. Vou mostrar a você onde fica o Sirius lá em cima, como você fez comigo.|O Sirius está me olhando com a bolinha na boca. Ele não desiste.|Já volto."
+DIARY_LOOK,{up}  Look inside,{up}  Olhar lá dentro
+DIARY_CONTROLS,{left} {right}  Turn the page    {jump}  Close,{left} {right}  Virar a página    {jump}  Fechar
+MENU_CHAPTERS,Chapters,Capítulos
+MENU_ASSIST,Assist Mode,Assistência
+MENU_SKIP_FIGHT,Skip Fight,Pular a Luta
+OPT_LANGUAGE,Language,Idioma
+LANGUAGE_EN,English,English
+LANGUAGE_PT_BR,Português,Português
+ASSIST_INVINCIBLE,Invincible,Invencível
+ASSIST_INFINITE_DASH,Infinite Dash,Dash Infinito
+ASSIST_NOTE_1,This game is meant to be challenging.,Este jogo foi feito para ser desafiador.
+ASSIST_NOTE_2,Assist Mode is here so no one is left behind.,A assistência existe para ninguém ficar para trás.
+CONFIRM_CHAPTER,Start this chapter?,Começar este capítulo?
+CONFIRM_CHAPTER_HINT,It replaces your saved game. Marshmallows are kept.,Substitui o jogo salvo. Os marshmallows ficam.
+CONFIRM_CHAPTER_YES,Start,Começar
+MENU_CHARACTER,Character,Personagem
+LOOK_SKIN,Skin,Pele
+LOOK_HAIR,Hair,Cabelo
+LOOK_BEARD,Beard,Barba
+LOOK_EYES,Eyes,Olhos
+LOOK_JACKET,Jacket,Casaco
+LOOK_PACK,Backpack,Mochila
+LOOK_PANTS,Pants,Calça
+LOOK_BOOTS,Boots,Botas
+LOOK_HAT,Hat,Chapéu
+LOOK_HAT_COLOR,Hat Color,Cor Chapéu
+LOOK_GLASSES,Glasses,Óculos
+LOOK_SCARF,Scarf,Cachecol
+LOOK_SCARF_COLOR,Scarf Color,Cor Cachecol
+LOOK_RANDOMIZE,Randomize,Aleatório
+LOOK_RESET,Reset,Restaurar
+HAT_NONE,None,Nenhum
+HAT_BEANIE,Beanie,Gorro
+HAT_CAP,Cap,Boné
+HAT_BUCKET,Bucket Hat,Pescador
+HAT_RANGER,Ranger Hat,Explorador
+BEARD_FULL,Full,Cheia
+BEARD_STUBBLE,Stubble,Por Fazer
+BEARD_MUSTACHE,Mustache,Bigode
+BEARD_NONE,None,Sem Barba
+GLASSES_NONE,None,Nenhum
+GLASSES_ROUND,Round,Redondos
+GLASSES_SHADES,Shades,De Sol
+SCARF_NONE,None,Sem
+SCARF_SCARF,On,Com
+COLOR_TONE_1,Tone 1,Tom 1
+COLOR_TONE_2,Tone 2,Tom 2
+COLOR_TONE_3,Tone 3,Tom 3
+COLOR_TONE_4,Tone 4,Tom 4
+COLOR_TONE_5,Tone 5,Tom 5
+COLOR_TONE_6,Tone 6,Tom 6
+COLOR_TONE_7,Tone 7,Tom 7
+COLOR_TONE_8,Tone 8,Tom 8
+COLOR_AUBURN,Auburn,Ruivo-escuro
+COLOR_CHESTNUT,Chestnut,Castanho
+COLOR_DARK_BROWN,Dark Brown,Castanho-escuro
+COLOR_BLACK,Black,Preto
+COLOR_BLONDE,Blonde,Loiro
+COLOR_PLATINUM,Platinum,Platinado
+COLOR_GINGER,Ginger,Ruivo
+COLOR_SILVER,Silver,Grisalho
+COLOR_BLUE,Blue,Azul
+COLOR_MINT,Mint,Menta
+COLOR_GREEN,Green,Verde
+COLOR_BROWN,Brown,Marrom
+COLOR_HAZEL,Hazel,Avelã
+COLOR_GRAY,Gray,Cinza
+COLOR_AMBER,Amber,Âmbar
+COLOR_DARK,Dark,Escuro
+COLOR_TEAL,Teal,Verde-água
+COLOR_INDIGO,Indigo,Índigo
+COLOR_FOREST,Forest,Floresta
+COLOR_RED,Red,Vermelho
+COLOR_MUSTARD,Mustard,Mostarda
+COLOR_NAVY,Navy,Marinho
+COLOR_OLIVE,Olive,Oliva
+COLOR_CHARCOAL,Charcoal,Carvão
+COLOR_ORANGE,Orange,Laranja
+COLOR_WHITE,White,Branco
+COLOR_YELLOW,Yellow,Amarelo
+COLOR_DENIM,Denim,Jeans
+COLOR_KHAKI,Khaki,Cáqui
+COLOR_RUST,Rust,Ferrugem
+COLOR_SAND,Sand,Areia
+COLOR_TAN,Tan,Caramelo
+COLOR_CREAM,Cream,Creme

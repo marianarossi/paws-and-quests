@@ -1,0 +1,25 @@
+{
+  "image": "spring_pink.png",
+  "frame_w": 32,
+  "frame_h": 22,
+  "scale": 1.0,
+  "light": [
+    1.0,
+    0.66,
+    0.82
+  ],
+  "animations": {
+    "idle": {
+      "row": 0,
+      "frames": 4,
+      "fps": 4,
+      "loop": true
+    },
+    "squash": {
+      "row": 1,
+      "frames": 2,
+      "fps": 12,
+      "loop": false
+    }
+  }
+}
